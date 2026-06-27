@@ -24,9 +24,9 @@ Aspirante a Desenvolvedor Back-end e Arquiteto de Software
 
 | Repositório | Descrição | Tecnologia |
 |---|---|---|
-| [C](https://github.com/arthur-engsoftware/C) | Exercícios em Linguagem C — Estruturas de Controle, E/S formatada, math.h | C |
+| [7X0gameinlanguageC](https://github.com/arthur-engsoftware/7X0gameinlanguageC) | Jogo de draft de futebol inspirado no 7a0.com.br | C |
+| [rpg-in-language-C](https://github.com/arthur-engsoftware/rpg-in-language-C) | RPG de texto com criação de personagem e combate por turnos | C |
 | [UESC-Ciencia-da-Computacao](https://github.com/arthur-engsoftware/UESC-Ciencia-da-Computacao) | Portfólio acadêmico da graduação — Portugol + C | Portugol / C |
-| competitive-programming *(em breve)* | Soluções Beecrowd & Codeforces | C++ |
 
 ## 🚀 Roadmap
 
@@ -41,5 +41,5 @@ Aspirante a Desenvolvedor Back-end e Arquiteto de Software
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/arthur-silva-9723213b6/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-silva-9723213b6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthursilva.stack@gmail.com)
