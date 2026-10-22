@@ -3,14 +3,12 @@
 **Estudante de Ciência da Computação — UESC (2026–2030)**  
 Aspirante a Desenvolvedor Back-end e Arquiteto de Software
 
-> *"Entender ponteiros e memória em C é o que diferencia quem usa abstrações de quem as constrói."*
-
 ---
 
 ## 🎯 Foco Atual
 
 - Dominando **Lógica de Programação** e **Algoritmos** na base
-- Especializando em **Linguagem C** — tipos, estruturas de controle, math.h
+- Especializando em **Linguagem C** — tipos, ponteiros, alocação dinãmica.
 
 
 ## 🛠️ Stack & Tecnologias
