@@ -31,9 +31,10 @@ Estou construindo minha base em **programação em C** e me direcionando para o 
 | [rpg-in-language-C](https://github.com/arthur-engsoftware/rpg-in-language-C) | RPG de texto com personagem sorteado e combate por turnos | C |
 | [projetodefisicaempython](https://github.com/arthur-engsoftware/projetodefisicaempython) | Conversão de unidades e operações com vetores 2D/3D, com gráficos | Python |
 | [analizador-investimentos](https://github.com/arthur-engsoftware/analizador-investimentos) | Com base em indices, conclui se a o investimento é bom,ruim ou normal | C |
+| [sistema-cadastro-c](https://github.com/arthur-engsoftware/sistema-cadastro-c.git) | CRUD básico, em C | C |
 | [UESC-Ciencia-da-Computacao](https://github.com/arthur-engsoftware/UESC-Ciencia-da-Computacao) | Repositório acadêmico da graduação | Portugol / C |
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([CONFIRMAR LINK])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarthur-silva/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arthursilva.stack@gmail.com)
